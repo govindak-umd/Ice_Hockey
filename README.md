@@ -3,10 +3,10 @@ A fun python code to play ice hockey
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This programme is a fun ice-hockey game that has two computer players. The board is shown below:
+This programme is a fun ice-hockey game that has two computer players. The board is shown below.
 
-
-Ackermann Steering
+Notice the scores of the two players on the board. The puck bounces around on the board and a score is 
+registered when the puck goes into the hole/goal.
 
 <p align="center">
   <img height="500" src="Images/board.jpg">
