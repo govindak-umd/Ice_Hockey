@@ -20,14 +20,13 @@ Date :  5 Jan 2021
 
 Steps to develop Ice hockey:
 
-    Calculate angle of incidence
     Calculate angle of reflection
     Get the new trajectory
     Bounce along the new trajectory
-    Make a ball that goes round in angles
     Make a moving rectangle on the left side
     Make a moving rectangle with the mouse
     Make the ball hit the mouse
+    draw the designs of the board
 
 
 Done:
@@ -35,4 +34,6 @@ Done:
     Develop a base screen
     Make a vertically bouncing ball
     Make a ball move in angles
+    Calculate angle of incidence\
+    Make a ball that goes round in angles
 
