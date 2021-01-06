@@ -52,7 +52,6 @@ Date :  6 Jan 2021
 Steps to develop Ice hockey:
 
     Make the ball hit the rectangle SPECIFICALLY
-    Allow the ball to move in to a slot
     Make a moving rectangle with the mouse
     Make the ball hit the mouse
 
@@ -73,3 +72,4 @@ Features Completed:
     Make a moving rectangle on the right side
     keep player scores
     show player wins on screen and scores
+    Allow the ball to move in to a slot
